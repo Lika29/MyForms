@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyForms", "MyForms.vcxproj", "{45607DA7-BFFE-40E7-B18F-524462D2D6C1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{81CD2557-8781-45B4-9C48-9453B494891D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45607DA7-BFFE-40E7-B18F-524462D2D6C1}.Debug|x64.ActiveCfg = Debug|x64
+		{45607DA7-BFFE-40E7-B18F-524462D2D6C1}.Debug|x64.Build.0 = Debug|x64
+		{45607DA7-BFFE-40E7-B18F-524462D2D6C1}.Debug|x86.ActiveCfg = Debug|Win32
+		{45607DA7-BFFE-40E7-B18F-524462D2D6C1}.Debug|x86.Build.0 = Debug|Win32
+		{45607DA7-BFFE-40E7-B18F-524462D2D6C1}.Release|x64.ActiveCfg = Release|x64
+		{45607DA7-BFFE-40E7-B18F-524462D2D6C1}.Release|x64.Build.0 = Release|x64
+		{45607DA7-BFFE-40E7-B18F-524462D2D6C1}.Release|x86.ActiveCfg = Release|Win32
+		{45607DA7-BFFE-40E7-B18F-524462D2D6C1}.Release|x86.Build.0 = Release|Win32
+		{81CD2557-8781-45B4-9C48-9453B494891D}.Debug|x64.ActiveCfg = Debug
+		{81CD2557-8781-45B4-9C48-9453B494891D}.Debug|x86.ActiveCfg = Debug
+		{81CD2557-8781-45B4-9C48-9453B494891D}.Release|x64.ActiveCfg = Release
+		{81CD2557-8781-45B4-9C48-9453B494891D}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {800A3EF6-3812-4732-8FA1-C2E8B1BF016B}
+	EndGlobalSection
+EndGlobal
